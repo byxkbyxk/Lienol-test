@@ -16,5 +16,5 @@ git clone https://github.com/sirpdboy/luci-app-advanced.git ./package/lean/luci-
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git ./package/OpenAppFilter
 
-# git clone https://github.com/kenzok8/openwrt-packages.git ./package/openwrt-packages
-# git clone https://github.com/kenzok8/small.git ./package/small
+git clone https://github.com/kenzok8/openwrt-packages.git ./package/openwrt-packages
+git clone https://github.com/kenzok8/small.git ./package/small
