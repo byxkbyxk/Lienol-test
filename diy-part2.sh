@@ -16,3 +16,4 @@ git clone https://github.com/sirpdboy/luci-app-advanced.git ./package/lean/luci-
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/luci-theme-infinityfreedom
 git clone https://github.com/destan19/OpenAppFilter.git ./package/OpenAppFilter
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git ./package/lean/luci-app-jd-dailybonus
+git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/lean/openwrt-passwall
