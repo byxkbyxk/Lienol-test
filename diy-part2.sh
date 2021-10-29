@@ -18,3 +18,4 @@ git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./p
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git ./package/lean/luci-app-jd-dailybonus
 git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/lean/openwrt-passwall
 # https://github.com/messense/aliyundrive-webdav
+git clone https://github.com/vernesong/OpenClash.git ./package/lean/luci-app-openclash
